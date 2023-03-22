@@ -22,7 +22,7 @@ dist-ssr
 *.njsproj
 *.sln
 *.sw?
-
+.env
 #amplify-do-not-edit-begin
 amplify
 amplify/\#current-cloud-backend
